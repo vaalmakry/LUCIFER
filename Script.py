@@ -1,9 +1,6 @@
 class script(object):
     START_TXT = """<b>ʜᴇʟʟᴏ {}
-
-ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ᴀɴᴅ sᴇʀɪᴇs,
-ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ.
-ɪ ᴡᴏʀᴋ ᴏɴ ʙᴏᴛʜ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ.</b>"""
+ɪ'ᴍ ᴡᴇᴅɴᴇsᴅᴀʏ ʙᴜɪʟᴛ ᴛᴏ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs, ɪ ᴡᴏʀᴋs ɪɴ ʙᴏᴛʜ ᴍʏ ᴘᴍ ᴀɴᴅ ɢʀᴏᴜᴘ</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 
@@ -11,17 +8,26 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/kunal_nagar_01>𒆜 𝖪ᴜɴᴀʟ ࿐</a></b>
+<b>✯ ɢʀᴏᴜᴘ 1 : <a href=https://t.me/MV_Mania>[𝐌𝐕] 𝐁𝐎𝐗 𝐎𝐅𝐅𝐈𝐂𝐄</a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/kd_botz>KD Bᴏᴛᴢ ⚡</a></b>
+<b>✯ ɢʀᴏᴜᴘ 2 : <a href=https://t.me/agorimoviess>🔰🔱 𝐀𝐆𝐎𝐑𝐈 ♏️𝐎𝐕𝐈𝐄𝐒 🔱🔰</a></b>
 
-<b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
+<b>✯ ɢʀᴏᴜᴘ 3 : <a href=https://t.me/FiLmCiTyHd1>𝙁𝙄𝙇𝙈 𝘾𝙄𝙏𝙔 𝙃𝘿 ® 📺</a></b>
+
+<b>✯ ғᴏʟʟᴏᴡ ᴜs : <a href=https://instagram.com/mv_maniaa?igshid=YmMyMTA2M2Y=>𝗠𝗢𝗩𝗜𝗘 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 </a></b>
+
+<b>✯ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/https://t.me/MoviE_LinkS_0nlY>[𝐌𝐕] 𝗠𝗢𝗩𝗜𝗘 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 </a></b>"""
 
     SOURCE_TXT ="""
-<b>Tʜɪꜱ Bᴏᴛ Iꜱ Aɴ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
+<b>✯ ɢʀᴏᴜᴘ 1 : <a href=https://t.me/MV_Mania>[𝐌𝐕] 𝐁𝐎𝐗 𝐎𝐅𝐅𝐈𝐂𝐄</a></b>
 
-- Sᴏᴜʀᴄᴇ - <a href=https://github.com/kdbotz/LUCIFER>DEVIL LUCIFER</a></b>
-"""
+<b>✯ ɢʀᴏᴜᴘ 2 : <a href=https://t.me/agorimoviess>🔰🔱 𝐀𝐆𝐎𝐑𝐈 ♏️𝐎𝐕𝐈𝐄𝐒 🔱🔰</a></b>
+
+<b>✯ ɢʀᴏᴜᴘ 3 : <a href=https://t.me/FiLmCiTyHd1>𝙁𝙄𝙇𝙈 𝘾𝙄𝙏𝙔 𝙃𝘿 ® 📺</a></b>
+
+<b>✯ ғᴏʟʟᴏᴡ ᴜs : <a href=https://instagram.com/mv_maniaa?igshid=YmMyMTA2M2Y=>𝗠𝗢𝗩𝗜𝗘 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 </a></b>
+
+<b>✯ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/https://t.me/MoviE_LinkS_0nlY>[𝐌𝐕] 𝗠𝗢𝗩𝗜𝗘 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 </a></b>"""
  
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -134,7 +140,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b>🆓 ғʀᴇᴇ:</b> <code>{}</code>
 
-<b>⍟────[ @KD_Botz ]─────⍟</b>"""
+<b>⍟────[ @MV_Mania ]─────⍟</b>"""
 
     LOG_TEXT_G = """<b>#NewGroup
     
@@ -151,10 +157,9 @@ ID - <code>{}</code>
 Nᴀᴍᴇ - {}</b>
 """
     ALRT_TXT = """⚠️ 𝖧ᴇʏ !
+ ʀᴇǫᴜᴇsᴛ ʏᴏᴜʀ ᴏᴡɴ
     
-𝖲ᴇᴀʀᴄʜ 𝖸ᴏᴜʀ 𝖮ᴡɴ 𝖥ɪʟᴇ, 
-    
-𝖣ᴏɴ'ᴛ 𝖢ʟɪᴄᴋ 𝖮ᴛʜᴇʀ𝗌 𝖱ᴇ𝗌ᴜʟᴛ𝗌 😬
+𝖣ᴏɴ'ᴛ 𝖢ʟɪᴄᴋ 𝖮ᴛʜᴇʀ𝗌 𝖱ᴇ𝗌ᴜʟᴛ 😬
 """
 
     OLD_ALRT_TXT = """⚠️ 𝖧ᴇʏ ! 
@@ -164,11 +169,9 @@ Nᴀᴍᴇ - {}</b>
 Sᴇɴᴅ Tʜᴇ Rᴇǫᴜᴇ𝗌ᴛ Aɢᴀɪɴ
 """
 
-    CUDNT_FND = """<b>sᴏʀʀʏ ɴᴏ ꜰɪʟᴇs ᴡᴇʀᴇ ꜰᴏᴜɴᴅ
-
-ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ
-
-ʀᴇᴀᴅ ɪɴsᴛʀᴜᴄᴛɪᴏɴs ꜰᴏʀ ʙᴇᴛᴛᴇʀ ʀᴇsᴜʟᴛs ☟</b>
+    CUDNT_FND = """<b>No Results Were Found
+Please check your spelling 
+Read instructions down below ☟</b>
 """
 
     I_CUDNT = """
@@ -190,7 +193,7 @@ Rᴇᴀsᴏɴs
 𝟸) Tʏᴘᴇ Nᴀᴍᴇ Wɪᴛʜ Yᴇᴀʀ
 
 𝟹) Mᴏᴠɪᴇ Is Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ Dᴀᴛᴀʙᴀsᴇ 
-Rᴇᴘᴏʀᴛ Hᴇʀᴇ @KDBotz_Support</b>
+Rᴇᴘᴏʀᴛ Hᴇʀᴇ @mv_mania</b>
 """
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ...
@@ -234,12 +237,7 @@ https://t.me/MoviesHouse8/9</code>
 """
 
     KD_CNL = """
-<b>⍟ Cʜᴀɴɴᴇʟs & Gʀᴏᴜᴘs Mᴏᴅᴜʟᴇ ⍟</b>
-
-<b>🎬 Cᴏᴍᴘʟᴇᴛᴇ Mᴏᴠɪᴇ Rᴇǫᴜᴇsᴛɪɴɢ Gʀᴏᴜᴘ.
-🚦 Aʟʟ Lᴀɴɢᴜᴀɢᴇs Mᴏᴠɪᴇs & Sᴇʀɪᴇs.
-🗣️ Bᴏᴛ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ.
-📢 Bᴏᴛ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ.</b>
+<b>Connect With Us Through The Buttons Down Below<b>
 """
 
     FORCE_SUB = """
@@ -299,10 +297,8 @@ https://t.me/MoviesHouse8/9</code>
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
-
-ᴀꜰᴛᴇʀ 10 ᴍɪɴᴜᴛᴇꜱ ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ
-
-ɪꜰ ʏᴏᴜ ᴅᴏ ɴᴏᴛ ꜱᴇᴇ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ᴍᴏᴠɪᴇ / sᴇʀɪᴇs ꜰɪʟᴇ, ʟᴏᴏᴋ ᴀᴛ ᴛʜᴇ ɴᴇxᴛ ᴘᴀɢᴇ
+This Message Will Be Deleted Within 10 Minutes 
+Check Other Pages Too.. 
 """
 
     MINFO = """
@@ -334,21 +330,19 @@ https://t.me/MoviesHouse8/9</code>
 
 ɪғ ʏᴏᴜ ɴᴏᴛ sᴇᴇ ʏᴏᴜʀ ғɪʟᴇs ᴏɴ ᴛʜɪs ᴘᴀɢᴇ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ɴᴇxᴛ ᴘᴀɢᴇ.
 
-Powered by :- KD Botz
 """
 
     SPLMD = """
-ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇsᴛ ғᴏʀᴍᴀᴛ
+Movie request format
 
-ᴇxᴀᴍᴘʟᴇ : Black Adam or Black Adam 2022
+Eg : Avatar or avatar 2009
 
-sᴇʀɪᴇs ʀᴇǫᴜᴇsᴛ ғᴏʀᴍᴀᴛ
+Series Request Format
 
-ᴇxᴀᴍᴘʟᴇ : Loki S01E01 or Loki S01 E01
+Eg : Loki S01E01 or Loki S01 E01
 
 🚯ᴅᴏɴ'ᴛ ᴜsᴇ ➠ ':(!,./)
 
-Powered by :- KD Botz
 """
     
     REQUEST_TXT = """
