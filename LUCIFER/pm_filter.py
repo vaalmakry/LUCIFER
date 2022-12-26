@@ -543,15 +543,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer(text=script.DONE_ALREADY, show_alert=True)
 
     elif query.data == "start":
-        buttons = [[
-                    InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-                ],[
-                    InlineKeyboardButton('🍁 Oᴡɴᴇʀ', callback_data="owner_info"),
-                    InlineKeyboardButton('🌿 Sᴜᴘᴘᴏʀᴛ', callback_data="kd_cnl")
-                ],[
-                    InlineKeyboardButton('❗ Hᴇʟᴘ', callback_data='help'),
-                    InlineKeyboardButton('🕵️ Aʙᴏᴜᴛ', callback_data='about'),
-                ],[
+       buttons = [[
+                    InlineKeyboardButton('💠 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ 💠', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+                  ],[
+                    InlineKeyboardButton('👑 Oᴡɴᴇʀ', callback_data="owner_info"),
+                    InlineKeyboardButton('💬 Sᴜᴘᴘᴏʀᴛ', callback_data="kd_cnl")
+                  ],[
+                    InlineKeyboardButton('🫂 Hᴇʟᴘ', callback_data='help'),
+                    InlineKeyboardButton('🍂 Uᴘᴅᴀᴛᴇs', url='https://t.me/MoviE_LinkS_0nlY'),
+                  ],[
                     InlineKeyboardButton('🔒 Cʟᴏsᴇ Mᴇɴᴜ', callback_data='close_data')
                   ]]
         
