@@ -753,13 +753,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
     elif query.data == "kd_cnl":
             cnlbtn = [[
-                      InlineKeyboardButton('Lᴜᴄɪғᴇʀ Bᴏᴛ Lᴏɢs', url="https://t.me/LuciferBot_logs")
+                      InlineKeyboardButton('ɨռֆȶǟɢʀǟʍ', url="https://instagram.com/mv_maniaa?igshid=YmMyMTA2M2Y=")
                      ], [
-                      InlineKeyboardButton('Gʀᴏᴜᴘ', url='t.me/mh_request'),
-                      InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='t.me/movieshouse8')
+                      InlineKeyboardButton('Gʀᴏᴜᴘ1', url='t.me/mv_mania'),
+                      InlineKeyboardButton('Gʀᴏᴜᴘ2', url='t.me/FiLmCiTyHd1')
                      ], [
-                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='t.me/kdbotz_support'),
-                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='t.me/kd_botz')
+                      InlineKeyboardButton('Gʀᴏᴜᴘ3', url='t.me/agorimoviess'),
+                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='t.me/MoviE_LinkS_0nlY')
                      ], [
                       InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
                      ]]
