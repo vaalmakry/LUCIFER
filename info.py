@@ -48,7 +48,7 @@ GRP_LNK = environ.get('GRP_LNK', 'https://t.me/MV_Mania')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/MoviE_LinkS_0nlY')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'MV_Mania')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
-
+CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", '❀ᴏᴜʀ ɢʀᴏᴜᴘ : @Mv_mania /n❀ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇꜱ : @MoviE_LinkS_0nlY /n❀ꜰɪʟᴇ ɴᴀᴍᴇ : {file_name}/n❀ꜰɪʟᴇ ꜱɪᴢᴇ : {file_size}')
 # Custom Chats
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', 0))
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', 0))
