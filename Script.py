@@ -199,7 +199,9 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @mv_mania</b>
 """
     
     OWNER_INFO = """
-empty
+<b>✯ ɴᴀᴍᴇ : <a href=https://t.me/No_OnE_Kn0wS_Me>SALMAN</a></b>
+
+<b>✯ ᴛɢ ᴜꜱᴇʀɴᴀᴍᴇ : @No_OnE_Kn0wS_Me</b>
 """
 
     KD_IMDB = """
