@@ -69,7 +69,7 @@ async def answer(bot, query):
             InlineQueryResultCachedDocument(
                 title=file.file_name,
                 document_file_id=file.file_id,
-                caption=f_caption,
+                caption=('❀ꜰɪʟᴇ ɴᴀᴍᴇ : {file_name}/n❀ꜰɪʟᴇ ꜱɪᴢᴇ : {file_size}/n❀ᴏᴜʀ ɢʀᴏᴜᴘ : @Mv_mania /n❀ᴍᴏᴠɪᴇ ᴜᴘᴅᴀᴛᴇꜱ : @MoviE_LinkS_0nlY').format(file_name= '' if title is None else title, file_size='' if size is None else size, file_caption='' if f_caption is None else f_caption),
                 description=f'Size: {get_size(file.file_size)}\nType: {file.file_type}',
                 reply_markup=reply_markup))
 
