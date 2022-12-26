@@ -45,13 +45,13 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-                    InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+                    InlineKeyboardButton('💠 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ 💠', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                   ],[
-                    InlineKeyboardButton('Oᴡɴᴇʀ', url='https://t.me/No_OnE_Kn0wS_Me'),
-                    InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', callback_data="kd_cnl")
+                    InlineKeyboardButton('👑 Oᴡɴᴇʀ', callback_data="owner_info"),
+                    InlineKeyboardButton('💬 Sᴜᴘᴘᴏʀᴛ', callback_data="kd_cnl")
                   ],[
-                    InlineKeyboardButton('Hᴇʟᴘ', callback_data='help'),
-                    InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/MoviE_LinkS_0nlY'),
+                    InlineKeyboardButton('🫂 Hᴇʟᴘ', callback_data='help'),
+                    InlineKeyboardButton('🍂 Uᴘᴅᴀᴛᴇs', url='https://t.me/MoviE_LinkS_0nlY'),
                   ],[
                     InlineKeyboardButton('🔒 Cʟᴏsᴇ Mᴇɴᴜ', callback_data='close_data')
                   ]]
