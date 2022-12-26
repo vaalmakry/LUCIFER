@@ -543,7 +543,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer(text=script.DONE_ALREADY, show_alert=True)
 
     elif query.data == "start":
-       buttons = [[
+        buttons = [[
                     InlineKeyboardButton('💠 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ 💠', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                   ],[
                     InlineKeyboardButton('👑 Oᴡɴᴇʀ', callback_data="owner_info"),
